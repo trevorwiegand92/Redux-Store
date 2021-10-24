@@ -20,6 +20,7 @@
     "apollo-server-express": "^3.4.0",
     "graphql": "^15.6.1",
     "mongoose": "^6.0.12",
+    "node.js": "0.0.1-security",
     "react-redux": "^7.2.5",
     "redux": "^4.1.1"
   }

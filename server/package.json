@@ -18,6 +18,7 @@
     "graphql": "^15.6.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.12",
+    "node.js": "0.0.1-security",
     "stripe": "^8.184.0"
   },
   "devDependencies": {
