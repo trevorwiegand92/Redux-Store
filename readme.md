@@ -25,14 +25,20 @@ Github URL: https://github.com/trevorwiegand92/Redux-Store
 
 Heroku URL:
 
-MongoDB Atals:
-
 # Screenshots
 
-### Here's a screenshot of the finished home page.
+### Here's a screenshot of the finished index page.
 
-![Here's a screenshot of the answer alerts.](./images/index_screenshot.png)
+![Here's a screenshot of the answer alerts.](./screenshots/screenshot-of-index-page.png)
 
-### Here's a screenshot of the application with data.
+### Here's a screenshot of the finished signup page.
 
-![Here's a screenshot of the answer alerts.](./images/budget_data_screenshot.png)
+![Here's a screenshot of the answer alerts.](./screenshots/screenshot-of-signup-page.png)
+
+### Here's a screenshot of the finished order-history page.
+
+![Here's a screenshot of the answer alerts.](./screenshots/screenshot-of-order-history-page.png)
+
+### Here's a screenshot of the finished checkout page.
+
+![Here's a screenshot of the answer alerts.](./screenshots/screenshot-of-checkout-page.png)

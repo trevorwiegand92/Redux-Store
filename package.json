@@ -1,10 +1,10 @@
 {
-  "name": "Redux-Store",
+  "name": "mern-shopping",
   "version": "1.0.0",
-  "description": "For our week 22 assignment we had to refactor the e-commerce platform for an online store so that it uses Redux.",
+  "description": "",
   "main": "server/server.js",
   "scripts": {
-    "start": "node server/server.js",
+    "start": "node server/server.js && npm run seed",
     "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed",
@@ -17,7 +17,10 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "react-redux": "^7.2.4",
+    "apollo-server-express": "^3.4.0",
+    "graphql": "^15.6.1",
+    "mongoose": "^6.0.12",
+    "react-redux": "^7.2.5",
     "redux": "^4.1.1"
   }
 }
