@@ -19,7 +19,8 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.12",
     "node.js": "0.0.1-security",
-    "stripe": "^8.184.0"
+    "stripe": "^8.184.0",
+    "webpack-dev-server": "3.11.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
